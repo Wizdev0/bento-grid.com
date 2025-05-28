@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "DMSans-Italic-VariableFont_opsz,wght";
+    src: url("assets/fonts/DMSans-Italic-VariableFont_opsz\,wght.ttf"), format("truetype");
+    font-size: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "DMSans-VariableFont_opsz,wght";
+    src: url("assets/fonts/DMSans-VariableFont_opsz\,wght.ttf"), format("truetype");
+
+    font-size: normal;
+    font-style: normal;
+}
+                                                                                          
+
+
+.custom-font-two{
+    font-family: "DMSans-VariableFont_opsz,wght", sans-serif;
+}
+
+.custom-font-one{
+    font-family: "DMSans-Italic-VariableFont_opsz,wght", sans-serif;
+}
